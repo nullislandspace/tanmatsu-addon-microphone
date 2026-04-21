@@ -2286,7 +2286,7 @@
 		)
 		(uuid "d9151b9d-36c7-4519-8bbe-caf74fac858a")
 	)
-	(text "EEPRON\nWrite\nprotect"
+	(text "EEPROM\nWrite\nprotect"
 		(exclude_from_sim no)
 		(at 198.374 91.948 0)
 		(effects
